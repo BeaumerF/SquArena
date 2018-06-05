@@ -3,8 +3,16 @@
 # SquArena
 2 players will fight in this tactical and turn based game ⬜⬛
 
+![mockup](./squarena/assets/images/mockup/squarena.png)
+<p align="center">(Mockup I made before starting the dev)</p>
 
-![mockup](./OpusMundi/Assets/screen2.png)
+## How to play?
+Each turn, a player will have two random numbers.
+Then, he can touch a square, a random value between the 2 numbers will appears.
+If it's next to a square of the other player and if the value is bigger, it will catch it.
+Let's take as many squares as possible !
+
+![mockup](./squarena/assets/images/mockup/squarena.gif)
 
 ## What does it use?
   - Flutter
