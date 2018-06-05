@@ -7,10 +7,10 @@
 <p align="center">(Mockup I made before starting the dev)</p>
 
 ## How to play?
-Each turn, a player will have two random numbers.
-Then, he can touch a square, a random value between the 2 numbers will appears.
-If it's next to a square of the other player and if the value is bigger, it will catch it.
-Let's take as many squares as possible !
+- Each turn, a player will have two random numbers.
+- Then, he can touch a square, a random value between the 2 numbers will appears.
+- If it's next to a square of the other player and if the value is bigger, it will catch it.
+- Let's take as many squares as possible !
 
 ![mockup](./squarena/assets/images/mockup/squarena.gif)
 
