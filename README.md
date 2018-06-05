@@ -14,7 +14,7 @@ Interested in mobile cross-platform dev, I wanted to try the google's solution w
 
 ## To do
 - [X] UI
-- [ ] gameplay
+- [X] gameplay
 - [ ] pop up that tell who's the winner
 
 ## Can I help you?
