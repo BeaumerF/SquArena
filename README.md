@@ -18,7 +18,7 @@
   - Flutter
 
 ## Why this project ?
-Interested in mobile cross-platform dev, I wanted to try the google's solution with a first project, this one.
+Interested in mobile cross-platform dev, I wanted to try the google's solution (flutter) to target android, iOS and Fuchsia with a first project.
 
 ## To do
 - [X] UI
