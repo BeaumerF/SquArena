@@ -1,4 +1,4 @@
-![logo](./OpusMundi/Assets/logo2.png)
+![logo](./squarena/assets/images/logo.png)
 
 # SquArena
 2 players will fight in this tactical and turn based game ⬜⬛
